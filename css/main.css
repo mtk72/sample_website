@@ -1,6 +1,33 @@
 .nav-menu {
      text-align: right;
    }
-   .nav-spacing {
+.nav-spacing {
      margin-left: 0 0 0 10px; 
    }
+.image-link {
+     text-decoration: none;
+}
+.image-style {
+     display: block; 
+     margin: 0 auto;
+}
+.div-center {
+     width: 500px; 
+     margin: 20px auto; 
+     padding: 30px;
+     background-color: #fafafa;
+}
+.image-cover {
+     float: left; 
+     margin: 0 40px 0 0;
+}
+.bq-style {
+     font-style: italic;
+     font-size: 20px;
+}
+.span-red {
+     font-style: normal; 
+     font-size: 24px; 
+     font-weight: bold;
+     color: #ff0000;
+}
